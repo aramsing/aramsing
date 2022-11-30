@@ -1,4 +1,4 @@
-Hello there, I am Arjun Ramsinghani, a Senior at Texas Tech Whitacre College of Engineering majoring in COmputer Science.
+Hello there, I am Arjun Ramsinghani, a Senior at Texas Tech Whitacre College of Engineering majoring in Computer Science.
 
 <!---
 aramsing/aramsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
