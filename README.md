@@ -1,4 +1,4 @@
-I am recent graduate in Computer Science from the Whitacre College of Engineering
+I am a Software Engineer at Revature
 
 <!---
 aramsing/aramsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
