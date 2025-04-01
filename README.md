@@ -1,4 +1,4 @@
-I am a Software Engineer III at United Services Automobile Association
+I am a Software Engineer III at USAA
 
 <!---
 aramsing/aramsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
